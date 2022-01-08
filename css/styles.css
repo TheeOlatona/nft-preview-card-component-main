@@ -1,0 +1,117 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: 'Outfit', sans-serif;
+  justify-content: center;
+  width: 100%;
+  display: inline-grid;
+    Font size: 18px;
+}
+
+h3 {
+  Font size: 18px;
+  color: hsl(0, 0%, 100%);
+  margin: 0 20px 20px 20px;
+  font-family: 'Outfit', sans-serif;
+  width:100%;
+}
+
+h4 {
+  Font size: 18px;
+  width: 80%;
+  margin: 0 20px;
+  display: inline;
+  font-family: 'Outfit', sans-serif;
+color: hsl(215, 32%, 27%)
+}
+
+p {
+  Font size: 18px;
+  font-size: 1.2rem;
+  margin: 30px 20px;
+  color:  hsl(215, 32%, 27%);
+  font-family: 'Outfit', sans-serif;
+
+
+  ;
+}
+hr{
+  border: solid 1px;
+  width: 90%;
+    margin: 80px 20px 30px 30px;
+  border-bottom: none;
+   color: hsl(215, 32%, 27%);
+}
+.card {
+  margin: 0;
+  border-radius: 10px;
+  height: 650px;
+  box-shadow: 10px 10px 60px 0 #000000;
+  max-width: 375px;
+  box-sizing: border-box;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  max-width: 1440px;
+  margin: 0 auto;
+  display: inline-block;
+  position: relative;
+}
+
+.equi {
+  margin-right: 30px;
+}
+
+.value {
+  display: inline;
+  position: absolute;
+  color: hsl(178, 100%, 50%);
+}
+
+.equilibrium {
+  width: 89%;
+  height: 320px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  display: inline-block;
+  position: relative;
+  margin: 20px 20px;
+
+}
+
+.eth {
+  float: left;
+  display: inline-grid;
+  margin-left: 20px;
+}
+
+.clock {
+  display: inline-grid;
+  float: right;
+    margin:0 80px 0 20px;
+}
+.time{
+  display: inline;
+  position: absolute;
+  margin-right: 10px;
+}
+
+.bottom-container {
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.avater {
+  width: 10%;
+position: absolute;
+}
+.creator{
+  text-align: right;
+
+  margin: 0 50px
+}
+.name{
+  color: hsl(0, 0%, 100%);
+}
